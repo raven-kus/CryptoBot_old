@@ -32,11 +32,15 @@ Configuration<br>
 ```
 
 ## Usage
-### Backtesting (Working)
+### Backtesting by telegram message (Working --> only by using other pre-installed channels)
+```
+python main.py
+```
+### Backtesting (On development)
 ```
 python main.py --backtest
 ```
-### RealTime trading (Working)
+### RealTime trading (On development)
 ```
 python main.py --realtrade
 ```
