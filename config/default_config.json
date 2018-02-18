@@ -12,7 +12,8 @@
     "api_hash" : "",
     "phone_number" : ""
   },
-  "my_config":{
-    "my_signal_channel" : ""
+  "crypto-bot":{
+    "token" : "",
+    "channel_id" : ""
   }
 }
