@@ -20,6 +20,10 @@ Configuration<br>
     "api_id" : "YOUR_API_ID",
     "api_hash" : "YOUR_API_HASH",
     "phone_number" : "YOUR_TEL_NUM"
+  },
+    "crypto-bot":{
+    "token" : "BOT_API_TOKEN",
+    "channel_id" : "YOUR_ID"
   }
 ```
 *Your tel num with your code number before.*
